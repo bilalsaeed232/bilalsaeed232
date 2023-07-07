@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilalsaeed232
 - 👀 I’m interested in everything related to **Web**
-- 🦾 I have been converting coffee to code for the past **7+ years**
+- 🦾 I have been converting coffee to code for the past **10+ years**
 - 🌱 I’m currently learning **graphql** (ins and outs)
 - 💞️ I’m looking to collaborate on open source **ReactJS** projects
 - 📫 You can reach me on 👉[LinkedIn](https://www.linkedin.com/in/bilal-saeed-a352a238/)👈
